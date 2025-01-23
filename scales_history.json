@@ -1,0 +1,74 @@
+[
+	{
+		"timestamp": 1721229146,
+		"weight_kg": 76.56,
+		"bmi": 24.52,
+		"bmr": 1954,
+		"body_fat_percent": 29.47,
+		"bone_mass": 3.9,
+		"moisture_percent": 52.7,
+		"muscle_percent": 70.3,
+		"sub_fat_percent": 22.37,
+		"visceral_fat_percent": 21.5
+	},
+	{
+		"timestamp": 1721559146,
+		"weight_kg": 76.1,
+		"bmi": 24.365,
+		"bmr": 1911,
+		"body_fat_percent": 29.47,
+		"bone_mass": 3.9,
+		"moisture_percent": 52.7,
+		"muscle_percent": 70.3,
+		"sub_fat_percent": 22.01,
+		"visceral_fat_percent": 20.8
+	},
+	{
+		"timestamp": 1725665450,
+		"weight_kg": 75.86,
+		"bmi": 23.98,
+		"bmr": 1896,
+		"body_fat_percent": 27.98,
+		"bone_mass": 3.9,
+		"moisture_percent": 52.7,
+		"muscle_percent": 70.3,
+		"sub_fat_percent": 19.2,
+		"visceral_fat_percent": 19.32
+	},
+	{
+		"timestamp": 1727110123,
+		"weight_kg": 75.26,
+		"bmi": 23.88,
+		"bmr": 1846,
+		"body_fat_percent": 27.98,
+		"bone_mass": 3.9,
+		"moisture_percent": 51.7,
+		"muscle_percent": 70.3,
+		"sub_fat_percent": 19.2,
+		"visceral_fat_percent": 19.2
+	},
+	{
+		"timestamp": 1727665450,
+		"weight_kg": 74.92,
+		"bmi": 23.78,
+		"bmr": 1826,
+		"body_fat_percent": 26.98,
+		"bone_mass": 3.9,
+		"moisture_percent": 52.5,
+		"muscle_percent": 70.3,
+		"sub_fat_percent": 19.2,
+		"visceral_fat_percent": 19.1
+	},
+	{
+		"timestamp": 1727765450,
+		"weight_kg": 74.29,
+		"bmi": 23.55,
+		"bmr": 1838,
+		"body_fat_percent": 25.5,
+		"bone_mass": 3.9,
+		"moisture_percent": 52.7,
+		"muscle_percent": 70.3,
+		"sub_fat_percent": 18.2,
+		"visceral_fat_percent": 18
+	}
+]

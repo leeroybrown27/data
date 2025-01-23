@@ -1,0 +1,62 @@
+[
+	{
+		"timestamp": 1725265500,
+		"position": "standing",
+		"systolic": 129,
+		"diastolic": 85
+	},
+	{
+		"timestamp": 1725665500,
+		"position": "standing",
+		"systolic": 134,
+		"diastolic": 88
+	},
+	{
+		"timestamp": 1725275400,
+		"position": "sitting",
+		"systolic": 121,
+		"diastolic": 74
+	},
+	{
+		"timestamp": 1726995400,
+		"position": "sitting",
+		"systolic": 124,
+		"diastolic": 79
+	},
+	{
+		"timestamp": 1727005400,
+		"position": "standing",
+		"systolic": 132,
+		"diastolic": 82
+	},
+	{
+		"timestamp": 1727275400,
+		"position": "sitting",
+		"systolic": 117,
+		"diastolic": 72
+	},
+	{
+		"timestamp": 1727875400,
+		"position": "sitting",
+		"systolic": 120,
+		"diastolic": 73
+	},
+	{
+		"timestamp": 1728118511,
+		"position": "standing",
+		"systolic": 118,
+		"diastolic": 72
+	},
+	{
+		"timestamp": 1728198630,
+		"position": "standing",
+		"systolic": 119,
+		"diastolic": 71
+	},
+	{
+		"timestamp": 1728246900,
+		"position": "sitting",
+		"systolic": 115,
+		"diastolic": 70
+	}
+]

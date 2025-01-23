@@ -1,0 +1,22 @@
+{
+	"summary": {
+		"weight": {
+			"value": 74.29,
+			"timestamp": 1727765450
+		},
+		"blood_pressure": {
+			"systolic": 115,
+			"diastolic": 70,
+			"timestamp": 1728246900
+		},
+		"week_targets": [
+			{ "day": "Thu", "blood": true, "weight": true },
+			{ "day": "Fri", "blood": true, "weight": true },
+			{ "day": "Sat", "blood": true, "weight": true },
+			{ "day": "Sun", "blood": false, "weight": true },
+			{ "day": "Mon", "blood": true, "weight": false },
+			{ "day": "Tue", "blood": true, "weight": true },
+			{ "day": "Wed", "blood": false, "weight": false }
+		]
+	}
+}
